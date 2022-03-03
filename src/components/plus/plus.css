@@ -1,0 +1,19 @@
+.plus-part-first,
+.plus-part-second {
+    display: inline-block;
+    width: 3px;
+    height: 10px;
+
+    border-radius: 2px;
+    /* background-color: #84A59D; */
+
+    position: absolute;
+    top: 40%;
+    left: auto;
+    right: 15%;
+}
+
+
+.plus-part-second {
+    transform: rotate(90deg);
+}

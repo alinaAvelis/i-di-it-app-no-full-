@@ -1,0 +1,11 @@
+.minus {
+    width: 10px;
+    height: 3px;
+
+    border-radius: 2px;
+
+    position: absolute;
+    top: 50%;
+    left: auto;
+    right: 15%;
+}
